@@ -24,3 +24,4 @@ I was an ICPC candidate and now I'm enjoying CTF.
 You can reach me by [msr20@mails.tsinghua.edu.cn](mailto:msr20@mails.tsinghua.edu.cn).
 
 [![Sirui's github stats](https://github-readme-stats.vercel.app/api?username=Lancern)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancern&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
