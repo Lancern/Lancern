@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a master student in NISL, Tsinghua University.
+I'm currently a master student in NISL, Tsinghua University. I got my undergraduate degree at Beijing Institute of Technology.
 
 My research interests include fuzzing and vulnerability discovery.
 
