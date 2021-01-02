@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Github Followers](https://img.shields.io/github/followers/Lancern?style=for-the-badge&logo=github)](https://github.com/Lancern)
+[![Telegram](https://img.shields.io/badge/Telegram-@lancern-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/lancern)
+
 I'm currently a master student in NISL, Tsinghua University. I got my undergraduate degree at Beijing Institute of Technology.
 
 My research interests include fuzzing and vulnerability discovery. I'm also a programming language enthusiast.
