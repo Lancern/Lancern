@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ```rust
 impl Lancern {
-    pub fn about() -> Lancern {
-        Lancern {
+    pub fn about() -> Self {
+        Self {
             name: "Sirui Mu",
             year_of_birth: 1998,
             location: "Beijing, China",
@@ -64,6 +64,10 @@ impl MasterStudent for Lancern {
         vec!["System Security", "Fuzz Testing", "Program Analysis"]
     }
 }
+
+impl ACMer for Lancern { }
+
+impl CTFer for Lancern { }
 ```
 
 [![Sirui's github stats](https://github-readme-stats.vercel.app/api?username=Lancern)](https://github.com/anuraghazra/github-readme-stats)
