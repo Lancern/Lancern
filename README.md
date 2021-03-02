@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 [![Github Followers](https://img.shields.io/github/followers/Lancern?style=for-the-badge&logo=github)](https://github.com/Lancern)
-[![Telegram](https://img.shields.io/badge/Telegram-@lancern-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/lancern)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/lancern_chest)
 
 </td>
 <td>
