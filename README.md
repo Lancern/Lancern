@@ -37,7 +37,7 @@ impl Lancern {
         Self {
             name: "Sirui Mu",
             year_of_birth: 1998,
-            location: "Beijing, China",
+            location: "Shanghai, China",
             email: "msr20@mails.tsinghua.edu.cn",
         }
     }
@@ -45,11 +45,11 @@ impl Lancern {
 
 impl Programmer for Lancern {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["OS", "Compilers", "Distributed Systems", "Backend", "Frontend"]
+        vec!["OS", "Compilers", "Backend", "Frontend"]
     }
 
     fn major_languages(&self) -> Vec<&'static str> {
-        vec!["C/C++", "Rust", "C#", "TypeScript", "Golang"]
+        vec!["C/C++", "Rust", "C#", "TypeScript"]
     }
 }
 
