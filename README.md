@@ -13,25 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<table border="0">
-<tr>
-<td>
-
-
-[![Github Followers](https://img.shields.io/github/followers/Lancern?style=for-the-badge&logo=github)](https://github.com/Lancern)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/lancern_chest)
-
-</td>
-<td>
-
-<img src="https://static.wikia.nocookie.net/himoto-umaruchan/images/a/a2/Umaru%27s_anime_design_%28chibi%29.png/revision/latest?cb=20200411195915" width="25%">
-
-</td>
-</tr>
-</table>
--->
-
 ### Hi there 👋
 
 ```rust
