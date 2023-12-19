@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <table border="0">
 <tr>
 <td>
 
-### Hi there 👋
 
 [![Github Followers](https://img.shields.io/github/followers/Lancern?style=for-the-badge&logo=github)](https://github.com/Lancern)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/lancern_chest)
@@ -30,22 +30,24 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+-->
+
+### Hi there 👋
 
 ```rust
 impl Lancern {
     pub fn about() -> Self {
         Self {
             name: "Sirui Mu",
-            year_of_birth: 1998,
             location: "Shanghai, China",
-            email: "msr20@mails.tsinghua.edu.cn",
+            email: "msrlancern@gmail.com",
         }
     }
 }
 
 impl Programmer for Lancern {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["OS", "Compilers", "Backend", "Frontend"]
+        vec!["Compilers & Toolchains", "Storage", "Backend", "Frontend"]
     }
 
     fn major_languages(&self) -> Vec<&'static str> {
@@ -53,21 +55,8 @@ impl Programmer for Lancern {
     }
 }
 
-impl MasterStudent for Lancern {
-    fn school(&self) -> &'static str { "Tsinghua University" }
-
-    fn lab(&self) -> &'static str { "NISL" }
-
-    fn major(&self) -> &'static str { "Cybersecurity" }
-
-    fn research_topics(&self) -> Vec<&'static str> {
-        vec!["System Security", "Fuzz Testing", "Program Analysis"]
-    }
-}
-
-impl ACMer for Lancern { }
-
-impl CTFer for Lancern { }
+impl FormerACMer for Lancern { }
+impl FormerCTFer for Lancern { }
 ```
 
 [![Sirui's github stats](https://github-readme-stats.vercel.app/api?username=Lancern)](https://github.com/anuraghazra/github-readme-stats)
