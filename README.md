@@ -36,6 +36,16 @@ impl Programmer for Lancern {
     }
 }
 
+impl Educated for Lancern {
+    fn bachelor() -> Degree {
+        Degree("Beijing Institute of Technology", "Software Engineering", 2016..=2020)
+    }
+
+    fn master() -> Degree {
+        Degree("Tsinghua University", "Cybersecurity", 2020..=2023)
+    }
+}
+
 impl FormerACMer for Lancern { }
 impl FormerCTFer for Lancern { }
 ```
