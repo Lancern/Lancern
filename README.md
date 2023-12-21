@@ -20,7 +20,6 @@ impl Lancern {
     pub fn about() -> Self {
         Self {
             name: "Sirui Mu",
-            location: "Shanghai, China",
             email: "msrlancern@gmail.com",
         }
     }
@@ -28,11 +27,11 @@ impl Lancern {
 
 impl Programmer for Lancern {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["Compilers & Toolchains", "Storage", "Backend", "Frontend"]
+        vec!["Compilers & Toolchains", "Storage Systems", "Backend & Frontend"]
     }
 
-    fn major_languages(&self) -> Vec<&'static str> {
-        vec!["C/C++", "Rust", "C#", "TypeScript"]
+    fn languages(&self) -> Vec<&'static str> {
+        vec!["C/C++", "Rust", "Python", "TypeScript", "C#"]
     }
 }
 
