@@ -21,6 +21,10 @@ impl Lancern {
         Self {
             name: "Sirui Mu",
             email: "msrlancern@gmail.com",
+            education: Education {
+                bachelor: Degree("Beijing Institute of Technology", "Software Engineering", 2016..=2020),
+                master: Degree("Tsinghua University", "Cybersecurity", 2020..=2023),
+            },
         }
     }
 }
@@ -35,19 +39,11 @@ impl Programmer for Lancern {
     }
 }
 
-impl Educated for Lancern {
-    fn bachelor() -> Degree {
-        Degree("Beijing Institute of Technology", "Software Engineering", 2016..=2020)
-    }
-
-    fn master() -> Degree {
-        Degree("Tsinghua University", "Cybersecurity", 2020..=2023)
-    }
-}
-
 impl FormerACMer for Lancern { }
 impl FormerCTFer for Lancern { }
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cs,cpp,cmake,css,discord,docker,dotnet,emacs,git,github,githubactions,go,haskell,html,jest,js,latex,linux,md,mongodb,mysql,nextjs,nginx,nodejs,postman,powershell,py,qt,raspberrypi,react,regex,rust,sqlite,stackoverflow,tailwind,twitter,ts,vercel,vim,visualstudio,vscode,wasm,wordpress,zig)](https://skillicons.dev)
 
 [![Sirui's github stats](https://github-readme-stats.vercel.app/api?username=Lancern)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancern&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
