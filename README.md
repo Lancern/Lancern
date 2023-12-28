@@ -43,7 +43,7 @@ impl FormerACMer for Lancern { }
 impl FormerCTFer for Lancern { }
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cs,cpp,cmake,css,discord,docker,dotnet,emacs,git,github,githubactions,go,haskell,html,jest,js,latex,linux,md,mongodb,mysql,nextjs,nginx,nodejs,postman,powershell,py,qt,raspberrypi,react,regex,rust,sqlite,stackoverflow,tailwind,twitter,ts,vercel,vim,visualstudio,vscode,wasm,wordpress,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=babel,bash,bootstrap,c,cs,cpp,cmake,css,discord,django,docker,dotnet,eclipse,emacs,flask,git,github,githubactions,gitlab,go,haskell,html,idea,jest,jquery,js,latex,linux,md,mongodb,mysql,nextjs,nginx,nodejs,postman,powershell,py,qt,raspberrypi,react,regex,rust,sqlite,stackoverflow,tailwind,twitter,ts,vercel,vim,visualstudio,vscode,wasm,webpack,wordpress,zig)](https://skillicons.dev)
 
 [![Sirui's github stats](https://github-readme-stats.vercel.app/api?username=Lancern)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancern&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
