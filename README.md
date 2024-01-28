@@ -39,6 +39,12 @@ impl Programmer for Lancern {
     }
 }
 
+impl LinuxUser for Lancern {
+    fn distros() -> Vec<&'static str> {
+        vec!["openSUSE", "ArchLinux", "Fedora", "Ubuntu"]
+    }
+}
+
 impl FormerACMer for Lancern { }
 impl FormerCTFer for Lancern { }
 ```
