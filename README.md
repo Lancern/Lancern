@@ -35,7 +35,7 @@ impl Programmer for Lancern {
     }
 
     fn languages(&self) -> Vec<&'static str> {
-        vec!["C/C++", "Rust", "Python", "TypeScript", "C#"]
+        vec!["C/C++", "C#", "Python", "Rust", "TypeScript", "Zig"]
     }
 }
 
