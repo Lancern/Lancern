@@ -41,7 +41,7 @@ impl Programmer for Lancern {
 
 impl LinuxUser for Lancern {
     fn distros() -> Vec<&'static str> {
-        vec!["openSUSE", "ArchLinux", "Fedora", "Ubuntu"]
+        vec!["openSUSE", "ArchLinux", "Fedora", "Ubuntu", "Debian"]
     }
 }
 
