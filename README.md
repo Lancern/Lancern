@@ -31,7 +31,7 @@ impl Lancern {
 
 impl Programmer for Lancern {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["Compilers & Toolchains", "Storage Systems", "Backend & Frontend"]
+        vec!["Compilers & Toolchains", "MLsys", "Storage Systems", "Backend & Frontend"]
     }
 
     fn languages(&self) -> Vec<&'static str> {
