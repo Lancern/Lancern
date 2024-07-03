@@ -31,11 +31,11 @@ impl Lancern {
 
 impl Programmer for Lancern {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["Compilers & Toolchains", "MLsys", "Storage Systems", "Backend & Frontend"]
+        vec!["Compilers", "Toolchain", "MLsys", "Storage Systems"]
     }
 
     fn languages(&self) -> Vec<&'static str> {
-        vec!["C/C++", "C#", "Python", "Rust", "TypeScript", "Zig"]
+        vec!["C/C++", "C#", "CUDA", "Python", "Rust", "TypeScript", "Zig"]
     }
 }
 
