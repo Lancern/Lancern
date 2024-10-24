@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile!
 
 🔭 I'm constantly looking for interesting open-source projects to contribute.
 
