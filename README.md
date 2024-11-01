@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I'm constantly looking for interesting open-source projects to contribute.
 
-⚡ I'm open to new job opportunities. You could reach me through my email if you're interested.
+⚡ I'm open to new job opportunities. You could [reach me through my email](mailto:msrlancern@gmail.com) if you're interested.
 
 ```rust
 impl Lancern {
