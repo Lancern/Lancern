@@ -35,22 +35,26 @@ impl Lancern {
 
 impl Programmer for Lancern {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["Compilers", "Toolchain", "MLsys", "Storage Systems"]
+        vec!["Compiler & Toolchain", "MLsys", "Storage System"]
     }
 
     fn languages(&self) -> Vec<&'static str> {
-        vec!["C/C++", "C#", "CUDA", "Python", "Rust", "TypeScript", "Zig"]
+        vec!["C/C++", "CUDA", "Rust", "Python", "TypeScript", "C#"]
+    }
+
+    fn agents(&self) -> Vec<&'static str> {
+        vec!["Codex"]
     }
 }
 
 impl LinuxUser for Lancern {
     fn distros() -> Vec<&'static str> {
-        vec!["openSUSE", "ArchLinux", "Fedora", "Ubuntu", "Debian"]
+        vec!["Fedora", "Ubuntu", "ArchLinux", "Debian", "openSUSE"]
     }
 }
 
-impl FormerACMer for Lancern { }
-impl FormerCTFer for Lancern { }
+impl FormerACMer for Lancern {}
+impl FormerCTFer for Lancern {}
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,apple,arch,astro,bash,bootstrap,c,cs,cpp,clion,cmake,css,debian,discord,docker,dotnet,emacs,git,github,githubactions,gmail,go,haskell,html,jquery,js,latex,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,postman,powershell,py,react,regex,rider,rust,sqlite,stackoverflow,sublime,tailwind,twitter,ts,ubuntu,vercel,vim,visualstudio,vscode,windows,wordpress,zig)](https://skillicons.dev)
