@@ -42,8 +42,8 @@ impl Programmer for Lancern {
         vec!["C/C++", "CUDA", "Rust", "Python", "TypeScript", "C#"]
     }
 
-    fn agents(&self) -> Vec<&'static str> {
-        vec!["Codex"]
+    fn coding_agents(&self) -> Vec<&'static str> {
+        vec!["Codex", "GitHub Copilot"]
     }
 }
 
